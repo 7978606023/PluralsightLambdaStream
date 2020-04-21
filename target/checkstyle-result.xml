@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.18">
+<file name="H:\My Program\LambdaExpression\src\main\java\com\ip\lambdaexpression\SampleFilter.java">
+<error line="0" severity="error" message="Missing package-info.java file." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocPackageCheck"/>
+</file>
+<file name="H:\My Program\LambdaExpression\src\main\java\com\ip\lambdaexpression\SampleMap.java">
+</file>
+<file name="H:\My Program\LambdaExpression\src\main\java\com\ip\lambdaexpression\StringExercises.java">
+</file>
+<file name="H:\My Program\LambdaExpression\src\main\java\com\ip\lambdaexpression\UpperCase.java">
+<error line="16" column="67" severity="error" message="&apos;{&apos; is not preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="17" column="1" severity="error" message="File contains tab characters (this is the first instance)." source="com.puppycrawl.tools.checkstyle.checks.whitespace.FileTabCharacterCheck"/>
+<error line="17" column="17" severity="error" message="&apos;5&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+</file>
+</checkstyle>
